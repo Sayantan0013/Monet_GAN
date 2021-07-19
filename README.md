@@ -1,1 +1,1 @@
-# Moret_GAN
+# Monet_GAN
